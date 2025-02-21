@@ -13,6 +13,7 @@ Revenue Analysis: Explored revenue distribution across different product categor
 Geographical Trends: Determined regions with the highest sales performance.
 ## 🔗 Dataset
 Used a structured e-commerce sales dataset containing transaction details like product ID, customer ID, order date, quantity, price, and location.
+https://github.com/abdulhaadi4419/E-commerce-sales_data_analysis/blob/main/e%20commerce%20dataset.csv
 
 # Sales to Profit Ratio Analysis by Customer Segment
 ## Overview
